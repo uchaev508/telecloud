@@ -1,0 +1,11 @@
+node_modules/
+.vscode/
+dist/
+build/
+keys
+.env
+.vercel
+lab/
+sessions/
+*.crt
+dump\.rdb
